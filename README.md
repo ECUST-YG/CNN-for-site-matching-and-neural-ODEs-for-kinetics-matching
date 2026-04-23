@@ -1,2 +1,2 @@
-# CNN-for-site-matching-and-neural-ODEs-for-kinetics-matching
+# Machine learning-guided hierarchical design of tandem catalyst for methyl methacrylate synthesis
 At the microscale, a CNN model identifies the active-site structure of the Ti–O–Cs oxygen bridge with a 1:1 Ti/Cs ratio and moderate spatial dispersion for site-matching. At the macroscale, a neural ODEs model generates the axial catalyst-bed profile of Cu and Cs catalyst along the reactor bed for kinetics-matching.
